@@ -3,11 +3,18 @@ body{
 align-content: center;
     text-align: center;
 margin: 20px;
+    font-size: 24;
 }
 .title{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
+}
+
+h1{
+    font-size: 30px;
+    line-height: 40px;
 }
 
 #pic{
